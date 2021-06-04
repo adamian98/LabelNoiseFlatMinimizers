@@ -1,0 +1,6 @@
+wandb
+data
+__pycache__
+.ipynb_checkpoints
+.vscode
+*.ipynb
